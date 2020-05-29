@@ -1,0 +1,13 @@
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\obj\Debug\netcoreapp3.1\bt-exceptions.csprojAssemblyReference.cache
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\obj\Debug\netcoreapp3.1\bt-exceptions.AssemblyInfoInputs.cache
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\obj\Debug\netcoreapp3.1\bt-exceptions.AssemblyInfo.cs
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\obj\Debug\netcoreapp3.1\bt-exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\bin\Debug\netcoreapp3.1\bt-exceptions.exe
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\bin\Debug\netcoreapp3.1\bt-exceptions.deps.json
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\bin\Debug\netcoreapp3.1\bt-exceptions.runtimeconfig.json
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\bin\Debug\netcoreapp3.1\bt-exceptions.runtimeconfig.dev.json
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\bin\Debug\netcoreapp3.1\bt-exceptions.dll
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\bin\Debug\netcoreapp3.1\bt-exceptions.pdb
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\obj\Debug\netcoreapp3.1\bt-exceptions.dll
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\obj\Debug\netcoreapp3.1\bt-exceptions.pdb
+C:\Users\Brennen\workspace\csharp\exercises\exceptions\bt-exceptions\obj\Debug\netcoreapp3.1\bt-exceptions.genruntimeconfig.cache
